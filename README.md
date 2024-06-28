@@ -8,9 +8,7 @@
 
 ## Descrição
 
-- ao tentar fazer login(em qualquer etapa) com a conta Google não é possível. 
-
-__Erro 400__ Referente a um problema comum relacionado ao processo de autenticação OAuth. Esse erro normalmente acontece quando a URI de redirecionamento enviado na solicitação não corresponde aos URIs de Redirecionamento Autorizados no Console da API do Google. 
+- ao tentar fazer login(em qualquer etapa) com a conta Google não é possível.  
 
 
 
