@@ -29,8 +29,7 @@ https://github-production-user-asset-6210df.s3.amazonaws.com/13632826/343947637-
 - ao clicar no botão de scroll no site oficial ele rola para baixo, já no site de teste não há qualquer ação.  
 
 # Bug - 4:
-## Textos sobrepostos
-![texto um em cima do outro](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/9ba8d971-9dc7-4f8a-8fa3-733782e986e6)
+
 
 
 # Bug - 5:
