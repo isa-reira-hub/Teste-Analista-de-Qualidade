@@ -73,3 +73,49 @@ https://github-production-user-asset-6210df.s3.amazonaws.com/13632826/343947637-
 - O usuário consegue colocar todas as informações no formulário, mas não conseguem concluir, pois o botão não aciona nenhuma ação.
 
 
+
+
+# BUGS EXTRAS
+
+## Frase grifada
+
+## Site oficial
+![site oficial  grifados](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/89e8859e-7935-4803-a6c7-10107dcd4400)
+
+
+## Site teste
+![site teste não grifados](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/244fffd0-b1d3-4d3a-bf7f-8fca470e12b8)
+
+
+
+## CNPJ diferentes
+
+## Site oficial
+![CNPJ site OFICIAL](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/60e34cce-527c-457f-8d60-039e16cfea51)
+
+
+
+
+## Site teste
+![CNPJ site teste](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/6fc01f10-d6fb-492b-ba04-c545611d00c5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
