@@ -10,7 +10,8 @@
 
 - ao tentar fazer login(em qualquer etapa) com a conta Google não é possível.  
 
-
+#
+#
 
 # Bug - 2:
 ## Não é possível fazer login com o Facebook
@@ -19,7 +20,8 @@
 ## Descrição
 - ao tentar fazer login(em qualquer etapa) com a conta facebook não é possível. 
 
-
+#
+#
 
 # Bug - 3:
 ##  Button scroll de seção
@@ -28,15 +30,22 @@ https://github-production-user-asset-6210df.s3.amazonaws.com/13632826/343947637-
 ## Descrição
 - ao clicar no botão de scroll no site oficial ele rola para baixo, já no site de teste não há qualquer ação.  
 
+#
+#
+
+
 # Bug - 4:
-## Títulos diferentes
+## Frase grifada
 
-## Título do site oficial
-![ti site oficial](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/f70209e3-19fc-4c3b-beb0-67ac59cf0172)
+## Site oficial
+![site oficial  grifados](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/89e8859e-7935-4803-a6c7-10107dcd4400)
 
 
-## Título do site teste
-![tit site teste](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/bc3da685-748b-49d1-91c5-72dec5eb6b6f)
+## Site teste
+![site teste não grifados](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/244fffd0-b1d3-4d3a-bf7f-8fca470e12b8)
+
+#
+#
 
 
 # Bug - 5:
@@ -44,20 +53,26 @@ https://github-production-user-asset-6210df.s3.amazonaws.com/13632826/343947637-
 ![isaaaaaa (1)](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/2e08adf1-8bbd-4558-ab60-d85b0d6249ac)
 
 
-
-
+#
+#
 
 
 ## Descrição
 - Ao clicar no botão "Google Play" sou direcionado para loja da "Apple Store" e não para a Google Play.
 
 # Bug - 6:
-## Erro de imagens de perfil em depoimentos
-![foto1](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/590c9815-331f-4660-a628-71e25d6bcf58)
-![fff](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/77253680-0fa4-44ca-8c44-0d69b077094c)
+
+## CNPJ diferentes
+
+## Site oficial
+![CNPJ site OFICIAL](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/60e34cce-527c-457f-8d60-039e16cfea51)
+
+## Site teste
+![CNPJ site teste](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/6fc01f10-d6fb-492b-ba04-c545611d00c5)
 
 
-
+#
+#
 
 
 ## Descrição
@@ -76,29 +91,12 @@ https://github-production-user-asset-6210df.s3.amazonaws.com/13632826/343947637-
 #
 #
 
-# BUGS EXTRAS
-
-## Frase grifada
-
-## Site oficial
-![site oficial  grifados](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/89e8859e-7935-4803-a6c7-10107dcd4400)
-
-
-## Site teste
-![site teste não grifados](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/244fffd0-b1d3-4d3a-bf7f-8fca470e12b8)
-
-
-
-## CNPJ diferentes
-
-## Site oficial
-![CNPJ site OFICIAL](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/60e34cce-527c-457f-8d60-039e16cfea51)
 
 
 
 
-## Site teste
-![CNPJ site teste](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/6fc01f10-d6fb-492b-ba04-c545611d00c5)
+
+
 
 
 
