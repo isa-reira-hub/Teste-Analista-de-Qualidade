@@ -52,13 +52,13 @@ https://github-production-user-asset-6210df.s3.amazonaws.com/13632826/343947637-
 ## Redirecionamento errado do link do Google play 
 ![isaaaaaa (1)](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/2e08adf1-8bbd-4558-ab60-d85b0d6249ac)
 
-
-#
-#
-
-
 ## Descrição
 - Ao clicar no botão "Google Play" sou direcionado para loja da "Apple Store" e não para a Google Play.
+
+
+#
+#
+
 
 # Bug - 6:
 
