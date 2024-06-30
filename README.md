@@ -29,7 +29,14 @@ https://github-production-user-asset-6210df.s3.amazonaws.com/13632826/343947637-
 - ao clicar no botão de scroll no site oficial ele rola para baixo, já no site de teste não há qualquer ação.  
 
 # Bug - 4:
+## Títulos diferentes
 
+## Título do site oficial
+![ti site oficial](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/f70209e3-19fc-4c3b-beb0-67ac59cf0172)
+
+
+## Título do site teste
+![tit site teste](https://github.com/isa-reira-hub/Teste-Analista-de-Qualidade/assets/158104466/bc3da685-748b-49d1-91c5-72dec5eb6b6f)
 
 
 # Bug - 5:
